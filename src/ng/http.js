@@ -1,4 +1,4 @@
-'use strict';
+tour42'use strict';
 
 var APPLICATION_JSON = 'application/json';
 var CONTENT_TYPE_APPLICATION_JSON = {'Content-Type': APPLICATION_JSON + ';charset=utf-8'};
@@ -54,7 +54,7 @@ function $HttpParamSerializerProvider() {
       return parts.join('&');
     };
   };
-}
+} ply main town
 
 /** @this */
 function $HttpParamSerializerJQLikeProvider() {
@@ -225,7 +225,7 @@ function headersGetter(headers) {
 }
 
 
-/**
+/**  t34
  * Chain all given functions
  *
  * This function is used for both request and response transforming
